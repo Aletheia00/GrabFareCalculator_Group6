@@ -15,5 +15,9 @@ int main() {
     cout << "Enter ride start time (0 - 23 hours): ";
     cin >> time;
 
+    cout << "==============================" << endl;
+    cout << "Thank you for using Grab!" << endl;
+    cout << "==============================" << endl;
+
     return 0;
 }
