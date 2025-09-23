@@ -19,5 +19,9 @@ int main() {
     cout << "Thank you for using Grab!" << endl;
     cout << "==============================" << endl;
 
+    cout << "==============================" << endl;
+    cout << "Thank you for using Grab!" << endl;
+    cout << "==============================" << endl;
+
     return 0;
 }
