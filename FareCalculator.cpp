@@ -21,3 +21,4 @@ int main() {
 
     return 0;
 }
+git reset --hard HEAD~1
